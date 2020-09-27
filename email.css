@@ -1,0 +1,49 @@
+.header{
+    background-color: black;
+    color: white;
+}
+.header p{
+    padding: 15px;
+    display: inline-block;
+    font-size: 18px;
+}
+.container{
+    display: flex;
+}
+.options{
+    background-color: white;
+    width: 25%;
+    height: 100vh;
+}
+.options button{
+    background-color: grey;
+    color: white;
+    width: 70%;
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+} 
+.options button:hover{
+    background-color: white;
+    color: black;
+}
+
+.maillist{
+    float: right;
+    width: 75%;
+}
+.mailitem{
+    background-color: antiquewhite;
+    width: 100%;
+    padding: 15px;
+    font-size: 30px;
+    margin: 5px;
+    border: 3px;
+}
+
+#mailBodyItem {
+    padding: 10px;
+    background-color: gray;
+    color: black;
+    width: 75%;
+}

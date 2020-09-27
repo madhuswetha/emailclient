@@ -1,0 +1,39 @@
+{
+"inbox" : [
+    {
+        "id": 1,
+        "from": "madhu@gmail.com",
+        "subject":"internshala",
+        "body":"apply for the internship by internshala"
+    },
+    {   "id":2,
+        "from": "swetha@gmail.com",
+        "subject":"campus commune",
+        "body":"take our test for online coding contest"
+    },
+    {
+        "id":3,
+        "from": "sam@gmail.com",
+        "subject":"amcat",
+        "body":"aspering minds september offer is here"
+    }
+],
+"sent" : [
+    {   "id":3,
+        "to" : "helo@gmail.com",
+        "subject":"greetings",
+        "body":"happy rakshabandhan"
+    },
+    {   "id":2,
+        "to" : "sundarpichai@gmail.com",
+        "subject":"google",
+        "body":"im the ceo for google"
+    },
+    {
+        "id":3,
+        "to" : "markjuck@gmail.com",
+        "subject":"facebook",
+        "body":"i own whatsapp and insta too"
+    }
+]
+}
